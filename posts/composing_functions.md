@@ -133,7 +133,7 @@ Let us consider this from the code volume perspective, the non `flatMap` way see
 
 Let us consider this from a performance perspective, `flatMap` way uses more lambdas (which are supposed to less performant than simple method calls), at the same time throwing exception might incur more cost than returning a value due to stacktrace and stuff. I don't have evidence for both the claims, perhaps some micro benchmarking can assert the same. 
 
-Apart from `flatMap` other methods like `fold` have been immensely useful. In all the controllers the `Either` would be folded to an `ResponseEntity` for Spring MVC as show below which was easy to read and uniform. 
+Apart from `flatMap` other methods like `fold` have been immensely useful. In all our controllers the `Either` would be folded to an `ResponseEntity` for Spring MVC as show below which was easy to read and uniform. 
 
 ```java
     @RequestMapping(value = "/performanalysis", method = RequestMethod.GET)
