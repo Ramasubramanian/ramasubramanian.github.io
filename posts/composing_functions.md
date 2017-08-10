@@ -133,10 +133,22 @@ Let us consider this from the code volume perspective, the non `flatMap` way see
 
 Let us consider this from a performance perspective, `flatMap` way uses more lambdas (which are supposed to less performant than simple method calls), at the same time throwing exception might incur more cost than returning a value due to stacktrace and stuff. I don't have evidence for both the claims, perhaps some micro benchmarking can assert the same. 
 
+Apart from `flatMap` other methods like `fold` have been immensely useful. In all the controllers the `Either` would be folded to an `ResponseEntity` for Spring MVC as show below which was easy to read and uniform. 
+
+```java
+    @RequestMapping(value = "/performanalysis", method = RequestMethod.GET)
+    public @ResponseBody ResponseEntity performAnalysis(@RequestParam("analysis_id") String analysisId) {
+        return Either.right(analysis)
+                .flatMap(analysisService::performAnalysis)
+                .fold(this::error, this::success);
+    }
+```
+`error` and `success` are methods from superclass that can convert a throwable to HTTP 500/400 series and success values (any Object) to JSON HTTP 200 responses.  
+
 I am not suggesting we **SHOULD/SHOULD NOT** use functional constructs in Java, this post is just an introspection of my choice to use the same and what if I hadn't used them. I am still divided on whether to use or not use these abstractions. Would like to conclude with below points.
 
 * Using funtional constructs like Monads and flatMap makes the code more elegant and simple (subjective) 
-* When using PL just play to the power of that PL instead of arm twisting the language to do something which it is not meant to do. For e.g. if throwing exceptions are the natural way then do it
+* When using a PL just play to the power of that PL instead of arm twisting the language to do something which it is not meant to do. For e.g. if throwing exceptions are the natural way thena do it
 * Using these functional abstractions would come with a performance cost as well as readability issues (subjective)
 * Monads and flatMaps might be more suitable in ML dervied languages like Haskell, F# than Java
 
