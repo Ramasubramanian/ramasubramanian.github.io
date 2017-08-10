@@ -1,6 +1,6 @@
 ### Composing Functions in Java
 
-I have been using [vavr.io](https://vavr.io) formerly Javaslang in my current project which is a REST service with considerable complexity like Schedule generation for a bunch of employees based on rules etc. I have made extensive use of Either, Try and Option monads in my code base. 
+I have been using [vavr.io](http://vavr.io) formerly Javaslang in my current project which is a REST service with considerable complexity like Schedule generation for a bunch of employees based on rules etc. I have made extensive use of Either, Try and Option monads in my code base. 
 
 _P.S: Code written here is not exactly the same, have modified for simplification and confidentiality reasons_
 
