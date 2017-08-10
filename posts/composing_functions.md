@@ -138,7 +138,7 @@ Apart from `flatMap` other methods like `fold` have been immensely useful. In al
 ```java
     @RequestMapping(value = "/performanalysis", method = RequestMethod.GET)
     public @ResponseBody ResponseEntity performAnalysis(@RequestParam("analysis_id") String analysisId) {
-        return Either.right(analysis)
+        return Either.right(analysisId)
                 .flatMap(analysisService::performAnalysis)
                 .fold(this::error, this::success);
     }
