@@ -1,6 +1,6 @@
 ### Constraint Programming
 
-Yes! We as developers have always been programming with constraints like deadlines, changing user requirements, internet downloading build systems, FP vs OOP dilemma, to use or not to use the new shiny web framework of the week, half assed tech bros, slow compiling languages, meetings etc. But this post is not about developer constraints. 
+We as developers have always been programming with constraints like deadlines, changing user requirements, internet downloading build systems, FP vs OOP dilemma, to use or not to use the new shiny web framework of the week, half assed tech bros, slow compiling languages, meetings etc. But this post is not about developer constraints. 
 
 **This is about programs which run based on specific constraints and try to find out solutions 
 for us based on the constraints i.e. rules. It is a different [programming paradigm](https://en.wikipedia.org/wiki/Constraint_programming).**
@@ -156,7 +156,7 @@ S3 = {T90}
 .
 Sm = {Tn-1, Tn}
 ```
-You can notice that each session here can be considered as bin inside which each task is an object of a specific volume i.e. time taken to complete that task. So this is apparently a [bin packing optimisation problem](https://en.wikipedia.org/wiki/Bin_packing_problem) which is common in Constraing Programming domain. Thankfully our CS literates have exposed APIs in Choco Solver to find solutions for such bin packing problems. 
+You can notice that each session here can be considered as bin inside which each task is an object of a specific volume i.e. time taken to complete that task. So this is apparently a form of [bin packing optimisation problem](https://en.wikipedia.org/wiki/Bin_packing_problem) which is common in Constraing Programming domain. Thankfully our CS literates have exposed APIs in Choco Solver to find solutions for such bin packing problems. 
 
 We will follow an approach similar to the simple equation problem, first let us define the required data models and variables
 
@@ -461,7 +461,7 @@ Running the program gives me below output:
 +-----------------+--------------+-------------------+--------------------------------------------------------
 ```
 
-You can see 30 tasks are grouped into 4 sessions of ~60 minutes each. 
+You can see 30 tasks are grouped into 4 sessions of ~60 minutes each. The program takes milliseconds to run. Had we tried this using a naive approach imagine the amount of time it would have taken.
 
 > Since we are generating random duration for each tasks each time the split and grouping may not be the same for each run of the program
 
@@ -505,6 +505,8 @@ _How to debug this?_
 
 You can use a standard CP (Constraint Programming) profiler like [CP Profiler](https://github.com/cp-profiler/cp-profiler) to trace and visualise how the solver works.
 
+
+### Parting words...
 
 What we have seen is the tip of a tip of an iceberg. Refer the [official choco documentation](http://choco-solver.readthedocs.io/en/latest/1_overview.html) for more information on what this wonderful paradigm is and what the library can do to solve complex problems. Our sample problem Bin Packing can be treated as a multiple Knapsack problem. Most CP libraries have inbuilt solvers for standard problems like Knapsack, N-Queens etc. 
 
