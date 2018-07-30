@@ -160,6 +160,8 @@ You can notice that each session here can be considered as bin inside which each
 
 We will follow an approach similar to the simple equation problem, first let us define the required data models and variables
 
+#### Defining the data models
+
 ```java
     static class Task {
         public final String taskName;
@@ -197,6 +199,8 @@ Now let us write a utility method to generate tasks in memory, ideally this woul
     }
 ```
 We generate task ids and names using indexes from 1 to 30 and we assign a random time taken for each task.
+
+#### Defining the variables
 
 Before creating necessary variables let us see the documentation of binpacking constraint method to understand the set of variables which we would require
 
@@ -239,7 +243,9 @@ Map<String, IntVar> taskVarMap = Arrays.stream(taskVars)
         .collect(Collectors.toMap(Variable::getName, Function.identity()));
 ```
 
-Now let us move on to defining the constraints, as we have already seen we are going to define a bin packing constraint. We will do the same as below:
+#### Specifying the constraints
+
+Now let us move on to specifying the constraints, as we have already seen we are going to define a bin packing constraint. We will do the same as below:
 
 ```java
 model.binPacking(taskVars, tasks.stream().mapToInt(t -> t.durationMinutes).toArray(), sessionVars, 0).post();
@@ -268,6 +274,8 @@ Now just run the solver to get necessary output.
         }
         boolean solved = model.getSolver().getSolutionCount() > 0;
 ```
+
+#### Extracting the solutions
 
 If `solved` is `true` then we can extract the values from variables and assign the same to corresponding tasks and group them into sessions as shown below:
 
@@ -409,6 +417,7 @@ public class Task2Sessions {
 
 ```
 
+#### Program output
 
 Running the program gives me below output:
 
