@@ -13,6 +13,14 @@ _Wannabe mathematician impostor alert below!!!_
 
 Suppose there are two variables `V1, V2, ..., Vn` which can have possible values from domain `D1, D2,..., Dn` respectively and the relationships between those variables are specified as a set of rules aka Constraints `C1, C2, ..., Cm` where `m > 0 and m = n or m <> n` then a program `P` which finds the appropriate values of `V1, V2, ..., Vn` from respective domains which satisfy the constraints is called a constraint programming system. At the end of successful execution we will have `V1=d1, V2=d2, ..., Vn=dn` where `d1, d2,..., dn` are specific values from domains `D1, D2,..., Dn` respectively.
 
+<img src="..\images\constraint_programming.png">
+
+So is the system intelligent enough to find a solution?
+
+<img src="..\images\is_this_ai.jpg">
+
+# NOOOOOOO!
+
 Now the variables can be of type simple integers to arrays/sets or matrices. Each corresponding value domain will obviously be of the same data type as the variable. 
 
 #### Current state and library choices
