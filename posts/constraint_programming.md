@@ -28,7 +28,7 @@ Our industry is driven by libraries created by computer science literates turned
 
 The library has multiple(awesome) functionality and necessary wrappers in java, python and .net, however we tried using the java wrappers as the customer was a java shop. Though the documentation was vague and we have to scan through reference docs we were able to write some programs and spike it out. Even though the wrappers were in java the core has been written in C++ and any exception stack traces ended up us reading C++ code to figure out the problem. This was confusing with minimal help from documentation (we did this 1.5 years ago, may be the docs are good now). 
 
-So after facing some road blocks with Google's implementation I set out to find alternative library choices and ended up with [Choco Solver](http://www.choco-solver.org/). This is a sweet (pun intended), pure java library for Constraint Programming. The DSL they have used was easy, stack traces were traceable to Java code and was relatively easier for us to use. The pleasure of adding it just like Google Guava or another utility in our build gradle file was good. The creators are also pretty responsive in support forums for queries. 
+After facing some road blocks with Google's implementation I set out to find alternative library choices and ended up with [Choco Solver](http://www.choco-solver.org/). This is a sweet (pun intended), pure java library for Constraint Programming. The DSL they have used was easy, stack traces were traceable to Java code and was relatively easier for us to use. The pleasure of adding it just like Google Guava or another utility in our build gradle file was good. The creators are also pretty responsive in support forums for queries. 
 
 #### A Simple example or how to draw an owl or Hello World!
 
@@ -151,7 +151,7 @@ Now that we have understood how to draw an Owl via simple steps (image on the le
 Image credits: https://eurokeks.com/memes/how-to-draw-an-owl
 
 ### Drawing an actual Owl or using CP to solve an actual problem
-So in our customer place we had a problem of scheduling a set of tasks for a set of employees. No I am not going to discuss the schedule generation part even though that was solved using CP. Even before scheduling we have to group these tasks into N minute sessions of fixed time so that it can be evenly distributed among employees. Since each task can take variable times with a high degree of variations like 1 minute task to 15 minute task choosing the best combination of tasks for grouping into 1 hour sessions so that number of sessions are kept minimal and hence the breaks between each sessions is minimal was a challenge. There can be 1000s of tasks per day distributed across 100s of employees per day. Using naive approach or writing a custom algorithm does not work since the search space is huge. 
+So in our customer place we had a problem of scheduling a set of tasks for a set of employees. No I am not going to discuss the schedule generation part even though that was solved using CP. Even before scheduling we have to group these tasks into N minute sessions of fixed time so that it can be evenly distributed among employees. Since each task can take variable times with a high degree of variations like 1 minute task to 15 minute task choosing the best combination of tasks for grouping into 1 hour sessions so that number of sessions are kept minimal and hence the breaks between each sessions is minimal was a challenge. There can be 1000s of tasks per day distributed across 100s of employees. Using naive approach or writing a custom algorithm does not work since the search space is huge. 
 
 So in essence it is grouping n tasks `T1, T2,..., Tn` into m sessions `S1, S2, ..., Sm` where `m <= n` so that m is minimal. There is no restriction on the number of tasks a session can hold. The expected output for example is 
 
@@ -268,7 +268,7 @@ model.max(sessionCountVar, taskVars).post();
 
 model.setObjective(Model.MINIMIZE, sessionCountVar);
 ```
-The first new variable is needed to provide a storage to keep the maximum of sessionIndex i.e. the session count. So if we try to minimise the value of this session count then we can ensure we will have minimum number of sessions and in turn less breaks between the sessions.
+The first new variable is necessary to provide a storage to keep the maximum of sessionIndex i.e. the session count. So if we try to minimise the value of this `max(session index)` then we can ensure we will have minimum number of sessions and in turn less breaks between the sessions.
 
 Now just run the solver to get necessary output.
 
