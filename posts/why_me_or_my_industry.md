@@ -1,5 +1,9 @@
 ## Why Me? Or my industry?
 
+**TLDR;** Only IT industry has zillion ways to do same thing like writing REST APIs buidling UIs storing data. Other industries e.g. carpentry, automobile seem to have some form of standard with less deviations and feel more consistent across the world. Too many ways to do same thing leads to chaos and confusion. Or may be I am wrong and it is human nature irrespective of industry to complicate lives. 
+
+**If you have more time:**
+
 Being with the software industry for past 15 years I have been thinking about how our industry is different from others
 or why we have so many ways to do things while others have lesser number of standardised processes, techniques etc. This thought has been flashing once in a while for the past 8 years. When i saw a tweet from Jaana B Dogan.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Programming is mostly about transforming from one data format to another. Let&#39;s stop pretending it is something else.</p>&mdash; Jaana B. Dogan (@rakyll) <a href="https://twitter.com/rakyll/status/1178723806128549889?ref_src=twsrc%5Etfw">September 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
