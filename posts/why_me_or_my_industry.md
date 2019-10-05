@@ -1,6 +1,6 @@
 ## Why Me? Or my industry?
 
-**TLDR;** Only IT industry has zillion ways to do same thing like writing REST APIs building UIs and storing data. Other industries e.g. carpentry, automobile seem to have some form of standard with less deviations and feel more consistent across the world. Too many ways to do same thing leads to chaos and confusion. Or may be I am wrong and it is human nature irrespective of industry to complicate lives. 
+**TLDR;** Only IT industry has zillion ways to do same thing like writing REST APIs building UIs and storing data. Other industries e.g. carpentry, automobile seem to have some form of standard with less deviations and feel more consistent across the world. Too many ways to do same thing leads to chaos and confusion. Or may be I am wrong and "grass is always greener on the other side" and it is human nature irrespective of industry to complicate lives. 
 
 **If you have more time:**
 
