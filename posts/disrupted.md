@@ -28,7 +28,7 @@ The students Mr. Mad Genius and Mr. Hundred Ex are studying 3rd year Mining Engi
 Having seen the name HIT of which he is also an alumni Mr.Complex decides to listen to them.
 
 ##### Proposal 2:
-Second proposal is from a company named Yangtze (a river) which own almost all the businesses in the world. They have the best engineers in the world working on the most complex problems of their verse like showing ads based on user behavior, upselling pillows to people who have bought beds, upselling 2 more pillows to people who have bought 4 pillows last week etc.  
+Second proposal is from a company named Yangtze (a river) which owns almost all the businesses in the world. They have the best engineers in the world working on the most complex problems of their verse like showing ads based on user behavior, upselling pillows to people who have bought beds, upselling 2 more pillows to people who have bought 4 pillows last week etc.  
 
 All the employees of mentioned company believe they are changing the world and bettering humanity by upselling items. 
 
@@ -91,12 +91,12 @@ Mad & Hundred: What about the User expriences?
 There enters the Chief UX screwer Mr.Leave Jobless wearing a black turtle neck sporting a frameless glass. He comes in, sits there and starts asking critical questions to enable better experience and add immense value to the product. 
 
 Leave Jobless: 
-- We should not expain the product to the user because if we have to then we have failed, so there should be no user manuals
+- We should not explain the product to the user because if we have to then we have failed, so there should be no user manuals
 - Product should not have a fixed color scheme, it has to adapt according to the mood of the user
 - Users should get addicted to the product and should not be able to go out of it
 - Not even a single pixel should be off the track
 - We should personalize the experience for each kid since each kid is unique
-- We should touch the lives of these kids appropriately and add value, meaning to their lives through our product
+- We should touch the lives of these kids _appropriately_ and add value, meaning to their lives through our product
 
 Mad & Hundred: It is lunch time shall we order some pizza?
 
@@ -104,7 +104,7 @@ Leave Jobless: Not for me, **Stay Hungry and Stay Foolish** is my life motto so 
 
 Mad & Hundred: Amazing principles to live by! We did a good job hiring you!
 
-Mad & Hundred: Let us use Fizzure cloud services provided by Picosoft and ask them for discounts since we are rivalling their chief competitor Yangtze Cobweb!
+Mad & Hundred: Let us use Fizzure cloud services provided by Nanosoft and ask them for discounts since we are rivalling their chief competitor Yangtze Cobweb!
 
 Everyone else: Brilliant idea!
 
@@ -112,7 +112,7 @@ Mad & Hundred send their data collection team to 10 schools for collecting data 
 
 #### Scene 2: Kick off Meeting @ Yangtze
 
-Mr.Droppedfrom Heaven is trying to resolve conflicts between two teams on what tech stack to use, team A is saying they should Object Oriented Programming with a garbage collected, dynamically typed language while team B is fighting for Purely functional, explicitly memory managed and statically typed language. 
+Mr.Droppedfrom Heaven is trying to resolve conflicts between two teams on what tech stack to use, team A is saying they should use Object Oriented Programming with a garbage collected, dynamically typed language while team B is fighting for Purely functional, explicitly memory managed and statically typed language. 
 
 Verbal altercation escalates and people stab each other in the meeting room. Security guards are called and the wounded are taken to hospital. Worried about this development Mr.Droppedfrom Heaven summons his Senior Prinicpal Distinguished Engineer Mr.Knows Everything. 
 
@@ -124,7 +124,7 @@ Team B: Our way is the right way you idiots!
 
 Mr.Knows enters the room with a grin in his face as he looks at his phone for a notification alert.
 
-Mr.Knows Everything: Happy to share with you all that I have been granted by 10182nd patent for "A Systematic Method to Navigate Office Spaces to enter Meeting Rooms" which I filed few minutes ago, I got this innovative idea while walking towards this room from my cabin. 
+Mr.Knows Everything: Happy to share with you all that I have been granted my 10182nd patent for "A Systematic Method to Navigate Office Spaces to enter Meeting Rooms" which I filed few minutes ago, I got this innovative idea while walking towards this room from my cabin. 
 
 Mr.Droppedfrom: Woah! Thats a superhuman achievement Mr.Knows we are so proud to have you as part of our team. 
 
@@ -138,7 +138,7 @@ Mr.Droppedfrom: OK! Great let us start working on this from tonight, inform your
 
 Team A & B: Claps......
 
-Mr.Knows: Happy to share with you all that I have been granted my 10183rd patent on "A Systematic Method to Resolve conflicts in Technological Decisions between Mutually Stabbing teams"
+Meanwhile Mr.Knows: Happy to share with you all that I have been granted my 10183rd patent on "A Systematic Method to Resolve conflicts in Technological Decisions between Mutually Stabbing teams"
 
 Mr.Droppedfrom: I have only request to you Mr.Knows and the entire team! Just ensure we use all the 69543 offerings/products that we provide as part of our Yangtze Cobweb services
 
@@ -152,7 +152,7 @@ Date is 01/01/2021, a year has passed on and both Thirst and Yangtze are ready w
 
 All students are given mobile phones to receive alerts, Mad & Hundred are eagerly awaiting the first wave of alerts for the past 5 hours to no avail. 
 
-They then call their production support to identify an issue with a firewall configuration due to which all notifications generated are blocked from reaching the student mobile phones. 
+They then call their production support to identify an issue with a firewall configuration due to which all notifications generated by the system are blocked from reaching the student mobile phones. 
 
 They resolve the issue at evening and all of a sudden the entire school is resonating with mobile phone alerts where each student is receiving 100s of alert messages. There is chaos and headache all over. The senior overengineers analyse the root cause to find that they have implemented a smart retry mechanism which will keep re-sending alerts every N minutes until a positive response is received and due to the firewall issue this SMART retry system re-sent 100s of notifications for each student. Finally they had to disable the SMART system to avoid flooding of notifications.
 
@@ -177,13 +177,13 @@ Teachers observe that kids have figured out how to install games on the mobile d
 
 ##### Day 100:
 
-Mad & Hundred hire a Distinguished Prinicipal Security Analyst to identify ways to block installation of other apps from the mobile devices and deploy new software. Kids being smart find ways to circumvent the blocks and still keep killing their teachers after elaborate torture in their VR generated worlds. 
+Mad & Hundred hire a Distinguished Principal Security Analyst to identify ways to block installation of other apps from the mobile devices and deploy new software. Kids being smart find ways to circumvent the blocks and still keep killing their teachers after elaborate torture in their VR generated worlds. 
 
 Mad & Hundred vow to fix this once for all and decide to write their own mobile OS which will support only one application for receiving thirst alerts! Thus is born ThirstOS or called tOS in short.
 
 ##### Day 360: 
 
-After having spent 6 months and a team of 20 overengineers Mad & Hundred deploy their new tOS in the mobiles of students to prevent them from torturing and killing their teachers on imaginary VR worlds. 
+After having spent nearly 8 months and a team of 20 overengineers Mad & Hundred deploy their new tOS in the mobiles of students to prevent them from torturing and killing their teachers on imaginary VR worlds. 
 
 Mad & Hundred are worried as they have already spent 160 million dollars on Fizzure cloud and still trying to figure out what costed them so much, they hire Mr.Cloud Billing who is an expert in Cloud platform billing algorithms. He writes script to analyse the gigabytes of billing data using ML and report the anomaly but they soon run out of funds to even employ Cloud billing! 
 
@@ -191,7 +191,7 @@ Mad & Hundred are worried as they have already spent 160 million dollars on Fizz
 
 ##### Day 1:
 
-Yangtze engineers land with a set of devices for students on school. They make students stand line and prick each student's throat to embed the thirst sensors. Students on seeing some of their friends crying and slightly bleeding try to run away but are caught and forcefully pricked to embed sensors on their throat.
+Yangtze engineers land with a set of devices for students on school. They make students stand in a line and prick each student's throat to embed the thirst sensors. Students on seeing some of their friends crying and slightly bleeding try to run away but are caught and forcefully pricked to embed sensors on their throat.
 
 ##### Day 2:
 
@@ -203,9 +203,9 @@ Yangtze engineers return with pride and a new sticky sensor which can be patched
 
 ##### Day 240:
 
-After having used the patch sensor for 3 months students start complaining about irritation and burning sensation, some students say they feel thirsty too frequently only because of this patch and they drink too much water to take too much bile breaks in the day. Parents sue Yangtze for millions.  
+After having used the patch sensor for 3 months students start complaining about irritation and burning sensation, some students say they feel thirsty too frequently only because of this patch and they drink too much water to take too much bile breaks in the day. Parents sue Yangtze for because they tried to strees their children's kidneys by overworking them.  
 
-Yangtze overengineers again resolve to fix this by completely eliminating sensor
+Yangtze overengineers again resolve to fix this by completely eliminating the need for a sensor
 
 ##### Day 350:
 
@@ -226,7 +226,11 @@ Minister of education meets Mr.Complex at complex's office where he learns from 
 ```
 Respected CTO - Ministry of Education, 
 
-  We have been making children of our school drink water every 2 hours by ringing the bell thrice every 2 hours which means they have to drink water if they feel thirsty at their desks. This has worked well for us for the past many years. Please implement the same on all schools across the country. Thank you.
+  We have been making children of our school drink water every 2 hours by ringing the bell 
+  thrice every 2 hours which means they have to drink water if they feel thirsty at their desks. 
+  This has worked well for us for the past many years.
+   
+  Please implement the same on all schools across the country. Thank you.
 
 - Retired Principal
 ```
