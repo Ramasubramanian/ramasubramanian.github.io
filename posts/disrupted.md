@@ -53,7 +53,7 @@ Hearing the words `Deep` `Learning` made Mr.Complex happy and he immediately agr
 
 Gushing with joy Mr.Mad Genius and Mr.Hundred Ex register their own company named _Thirst Inc_ with a tagline **"Thirst for disruption!"**. They start recruiting for Software overengineers, User Experience Screwers, Chief Complexity Officer etc. 
 
-Meanwhile the date is 10/01/2010 and Mr.Complex has invited people from Yangtze to present their solution. Since he already knows the people he foregoes the Washroom Pitch ritual and asks them to present their solution in a meeting room. 
+Meanwhile the date is 10/01/2020 and Mr.Complex has invited people from Yangtze to present their solution. Since he already knows the people he foregoes the Washroom Pitch ritual and asks them to present their solution in a meeting room. 
 
 The Chief Blahrchitect of the Yangtze Mr.Droppedfrom Heaven presents the solution as follows: 
 
@@ -203,7 +203,7 @@ Yangtze engineers return with pride and a new sticky sensor which can be patched
 
 ##### Day 240:
 
-After having used the patch sensor for 3 months students start complaining about irritation and burning sensation, some students say they feel thirsty too frequently only because of this patch and they drink too much water to take too much bile breaks in the day. Parents sue Yangtze for because they tried to strees their children's kidneys by overworking them.  
+After having used the patch sensor for 3 months students start complaining about irritation and burning sensation, some students say they feel thirsty too frequently only because of this patch and they drink too much water to take too much bile breaks in the day. Parents sue Yangtze for because they tried to stress their children's kidneys by overworking them.  
 
 Yangtze overengineers again resolve to fix this by completely eliminating the need for a sensor
 
@@ -229,7 +229,7 @@ Respected CTO - Ministry of Education,
   We have been making children of our school drink water every 2 hours by ringing the bell 
   thrice every 2 hours which means they have to drink water if they feel thirsty at their desks. 
   This has worked well for us for the past many years.
-   
+
   Please implement the same on all schools across the country. Thank you.
 
 - Retired Principal
