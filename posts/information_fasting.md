@@ -18,24 +18,24 @@
 - If you are a person who knows you are consuming more information and always on mobile but want to come out and looking for ideas/experience reports please read this
 - If you are a person who knows you are consuming more and does not give a shit about it please read something else
 
-Since you have read the disclaimer and decided about going further let me explain a few basic things. 
-
 [TL;DR](#TL;DR) is in the end
 
-I love analogies. Information is food for brain like those beautiful tasty food we munch to fill our tummies. The more you take the more happy you feel but after some years your body strikes back with ailments. Similarly our mind/brain/counciousness/soul whatever you want to call it munches information and reacts upon it. Like food, taking more and more information than required levels might amuse with short term pleasures but will lead to mental ailments in the form of stress/insomnia etc which will manifest in physical health as well. 
+Since you have read the disclaimer and decided about going further let me explain a few basic things. 
+
+I love analogies. Information is food for brain like those beautiful tasty food we munch to fill our tummies. The more you take the more happy you feel but after some years your body strikes back with ailments. Similarly our mind/brain/conciousness/soul whatever you want to call it munches information and reacts based on it. Like food, taking more and more information than required levels might amuse with short term pleasures but will lead to mental ailments in the form of stress/insomnia etc which will manifest in physical health over a period of time.
 
 ### Blank/Idle intervals
-If you notice or recollect for a while everyday in between all these work, children, family, partner things we will have some moments of isolation i.e. blank/idle states of mind when we have nothing else to do during which we will be thinking about some topic or about ourselves or our future etc OR without blinking for a second we will reach out to our life companion aka Smart phones to endlessly scroll and munch information. The former leads to good/bad thoughts and could be beneficial but the latter is not beneficial in anyway. The high availability of this endless stream of information whenever we require is precisely the problem that leads to information overload. Not just overload but tricks our brains into consuming irrelevant information coated as relevant because we are idle. 
+If you notice or recollect yourself, for a while everyday in between all these work, children, family, partner things we will have some moments of isolation i.e. blank/idle states of mind with nothing else to do. We used to think about some topic or about ourselves or our future etc in these moments a decade ago but now without blinking and eye for a second we will reach out to our life companion aka Smartphones to endlessly scroll and munch information which may or may not be required at all. The former leads to good/bad thoughts and could be beneficial but the latter is not beneficial in anyway. The high availability of this endless stream of information whenever we require is precisely the problem that leads to information overload. Not just overload but tricks our brains into consuming irrelevant information coated as relevant because we are idle. 
 
-We are looking for devices with long battery life or insane charging speeds to avoid being away from these infinite information beaming devices. With this pandemic and lockdown we will have more chances of these isolated moments which inturn leads to more chances of picking up that device that can infinitely beam streams of information to our minds. 
+We are looking for phones with long battery life or insane charging speeds to avoid being away from these infinite information beaming devices. With this pandemic and lockdown we will have more chances of these isolated moments which inturn leads to more chances of picking up the device that can infinitely beam streams of information to our minds. 
 
 ### Source of information
-Since this is about smart phones the primary source of information are apps, SMS and phone calls are also apps since they have already taken a back seat. "No call only WhatsApp" is a common status now. 
+Since this is about smart phones the primary source of information are apps. (SMS and phone calls are also apps since they have already taken a back seat) "No call only WhatsApp" is a common status now. 
 
 I would like to categorise these apps as follows:
 
 #### Endless information streaming apps
-Information here does not mean textual content alone, it is video, audio and anything that can be consumed by the mind. As I said I love analogies these are the equivalent of high sugar cleverly engineered and processed food with addictive chemicals added like those soda, donuts etc which will keep you wanting more the more you consume and will never feel satiated. 
+Information here does not mean textual content alone, it is video, audio and anything that can be consumed by the mind. As I said I love analogies these are the equivalent of high sugar, cleverly engineered and processed food with addictive chemicals added like those soda, donuts etc which will keep you wanting more the more you consume and you will never feel satiated. 
 
 Fortunately your body cannot take in more than your capacity due to physical limitations of expansion. But your mind has far more capacity to expand to take in information than your stomach's expansion capacity, a small scrolling session or just one episode planned at 10PM for 10 - 20 minutes due to no sleep might go for hours until you reach your physical limits at 3AM and doze off.
 
@@ -44,7 +44,7 @@ Based on my usage and knowledge apps like Netflix, Prime video, Twitter, Faceboo
 #### Group chat/Gossip apps
 These are the second category which are equivalent to the high carb low nutrition foods like potato which are addictive to some levels but is allowed if consumed in moderation. Human beings are gossipers we need those chit-chats and opinions in our everyday lives so it is a natural habit that cannot be completely abandoned unless you are a monk. 
 
-Based on my usage and knowledge apps like Whatsapp, Telegram, Discord etc are such apps where you can form groups and keep chatting, sharing that awesome memes etc. 
+Based on my usage and knowledge apps like Whatsapp, Telegram, Discord etc are where you can form groups and keep chatting, sharing that awesome memes etc. fall under this category.
 
 These are better than the first category since the information you consume is finite and limited by the production capacity of other people in the group and will have some moderation by administrator(s) of some sort. 
 
@@ -54,14 +54,14 @@ These are apps which we use to communicate with close friends and family on a on
 #### Really useful apps
 Banking apps, Google Pay, Maps, Cab booking apps, book reading apps like Kindle, Audiobook apps etc. Since these are really useful I am not talking about these apps, they just deserve a mention as a separate category that is all.
 
-The last 2 catefories are like essential vitamins and minerals which you cannot skip and will satiate you even if you take in moderation.
+The last 2 categories are like protein rich food, essential vitamins and minerals which you cannot skip and will satiate you even if you take in moderation.
 
 #### People with urge to share
 Yes we ourselves are one of the source of information for others for example there will be atleast one of us in each group 
 - that router for memes across various channels
 - that thinker who has an opinion on everything
-- that warrior who shares the plight of the downtrodden
-- that arm chair expert who can talk about any topic 
+- that keyboard warrior who shares the plight of the downtrodden and seeks social justice 
+- that arm chair expert who can talk about any topic as if they earned their Ph.D and worked life long in the field
 
 There is a popular saying in Tamil `யாம் பெற்ற இன்பம் பெறுக இவ்வையகம்` which approximately/poorly translates to `May this world receive the same joy i have received`. This mindset is also to blame for oversharing. Philosophically speaking what is joy for you might be bland/irksome for someone else ;-)
 
@@ -73,38 +73,38 @@ Let us take my case as an example,
 
 2015 - 2019 = Overshared political opinions, movie reviews on Twitter
 
-2016 - 2020 (March) = Overshared tech memes + content from Twitter to Discord (office group having a casual channel)
+2016 - 2020 (March) = Overshared tech memes + content from Twitter to Discord (office group having an informal channel)
 
 2013 - 2019 = Watching movies/series on mobile phones which goes late into the nights and occupied whole weekends
 
-> Although now I am out of all this now, I have noticed a slight increase in whatsapp group chats participation due to this lockdown. Just being concious about this to reduce the same once this is all over. 
+> Although I am out of all this now, I have noticed a slight increase in whatsapp group chats participation due to this lockdown. Just being concious about this to reduce the same once this is all over :-P 
 
 ### What worked/works for me?
 And might work for you too.
 
 #### Should we use a feature phone instead of a smartphone?
-Nah! I tried this few years back for 2 months, failed and realised how much i missed those banking apps, Maps, Cab booking and food ordering apps. It is stupid to renounce the smartphone and is not sustainable in today's world. But using this for 2 months helped me get out of over WhatsApping. So can be worth trying as a starter.
+Nah! I tried this few years back for 2 months, failed and realised how much i missed those banking apps, Maps, Cab booking and food ordering apps. It is stupid to renounce the smartphone and is not sustainable in today's world. But using the feature phone for 2 months helped me get out of over WhatsApping. So can be worth trying as a starter.
 
 #### What do we do then?
-Information fasting similar to fasting in food worked for me. Fasting makes your body better, information fasting makes your mind better, calmer and free from stress. In some cases stopping to consume from the source all of a sudden worked in some cases mindful usage of the source worked. 
+Information fasting similar to fasting in food worked for me. Fasting makes your body better, information fasting makes your mind better, calmer and free from stress. In some cases stopping the consumption from the source one for all worked in some cases mindful usage of the source worked. 
 
 #### Endless information streaming apps
 Remove these apps from your phone and move them to your personal laptop/desktop. Problem with having these kind of infinite information beaming apps in mobile is that 
 - they are available whenever and wherever we want hence spoiling our blank/idle intervals pulling us away from the much needed solitudes
 - They have push notifications which has the capacity to interrupt our current focus
 
-Moving them to personal laptops/desktops means reducing the mobility and availability so that we do not keep checking them everytime and can minimise our time with these apps by a large factor. I did this for Twitter and it works well, the reason I did not abandon Twitter just like that is because it is my primary channel for keeping upto date with my professional industry. 
+Moving them to personal laptops/desktops means reducing the mobility and availability so that we do not keep checking them everytime and can minimise our time with these apps by a large factor. We can also look at predefined time slots to consume these apps. I did this for Twitter and it works well, the reason I did not abandon Twitter just like that is because it is my primary channel for keeping upto date with my professional industry. 
 
 Change your mindset and abandon these altogether in a single shot. I did this for Facebook years back when I felt I am oversharing and got out of it just like that. Never turned back. I did the same recenly for Discord as well and not going back any soon. This is a harder path but possible.
 
-For news reading use some feed reader like Feedly instead of reading Google news and likes so that you get news only from the sources you want.
+For news reading use some feed reader like Feedly instead of reading Google news and likes so that you get news only from the sources you want. Do not watch movies/series on mobile phones. Use only a TV or bigger screen. Change your mindset to watch movies/series only on weekends or 1 - 2 hours a day.
 
 #### Group chat/Gossip apps
 It is best to remove these apps from phone and use only in the personal laptops/desktops but few apps like WhatsApp do not support working on these devices without a mobile phone. In such cases we can keep this app on our mobiles but disable notifications altogether. 
 
-But what if our family or bae use the same app for one-to-one communications as well? 
+But what if our family or bae use the same app for one-to-one communications? 
 - Use another less popular app like Signal and ask them to move there for 1-to-1 chats
-- Most apps have ability to customise notifications sounds/lights at per contact basis so assing unique tones to family and bae helps
+- Most apps have ability to customise notifications sounds/lights at per contact basis so assigning unique tones to family and bae helps
 - Mute group chats alone and enable notifications only for individual messages, OCD folks might want to make group chats notification count to 0 hence check those messages as a side effect of this
 
 I am following the first approach and is working well. 
@@ -141,13 +141,13 @@ If you like reading or books Audio book apps and book reading devices like Kindl
 
 
 ## TL;DR
-Mobile apps are sources of information overload which manifests itself as stress, insomnia etc. Information is not just textual content, videos, audio etc are information which affects our sleep and brain. We can categorise our mobile apps into below:
+Mobile apps are sources of information overload which manifests itself as stress, insomnia etc. Information is not just textual content, videos, audio etc are also information which affects our sleep and brain. We can categorise our mobile apps into below:
 ### 1. Endless information streaming apps
 
 Apps that contain endless scrolling and keeps genearing content infintely like Facebook, Twitter, TikTok, Instagram etc. It is better to abadon these apps once for all or at least move these to personal laptops/desktops to avoid the always available and interrupting nature with push notifications
 
 ### 2. Group chat/Gossip apps
-Like Whatsapp, Telegram etc which we indulge in group chat, gossiping etc. It is best to move these apps to personal laptops/desktops or atleast disable notifications and check on predefined time slots per day to avoid overload
+Like Whatsapp, Telegram etc which we indulge in group chat, gossiping etc. It is best to move these apps to personal laptops/desktops or at least disable notifications and check on predefined time slots per day to avoid overload
 
 ### 3. Urge to share
 This is also one of the prime source of information overload resist the urge by asking below questions:
@@ -165,3 +165,6 @@ We can see ourselves and others outraging on social media and chats for trivial 
 - Do I have the control to change something based on this information?
 
 if your answers are YES, NO, NO then there is no point in outraging about that information. 
+
+
+Writing this now because the lockdown due to this pandemic gives us more idel slots and hence we are all more prone to information overload now.
