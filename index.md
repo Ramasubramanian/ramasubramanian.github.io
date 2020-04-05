@@ -4,6 +4,8 @@
 
 ### Posts
 
+ [Information fasting](posts/information_fasting.md)
+ 
  [Why Me? Or my industry?](posts/why_me_or_my_industry.md)
 
  [Build yourself a simple Domain Specific Language with S-Expressions](posts/build_simple_dsl_sexp.md)
